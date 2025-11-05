@@ -1,0 +1,5 @@
+{
+  "name": "Liquidador de Impuestos Colombiano",
+  "description": "Una aplicación para calcular liquidaciones de impuestos en Colombia, incluyendo intereses y sanciones, basada en una lógica de cálculo compleja.",
+  "requestFramePermissions": []
+}
